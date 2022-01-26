@@ -1,6 +1,9 @@
-# flutter_chat_project
+# Flutter Not Tutucu
 
-A new Flutter project.
+# This is dynamic notepad app
+
+# There is an apk in base folder, it's name is NotTutucu.apk
+
 
 ## Getting Started
 
