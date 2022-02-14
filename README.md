@@ -2,7 +2,7 @@
 
 # This is dynamic notepad app
 
-# There is an apk in base folder, it's name is NotTutucu.apk
+# There is an apk in base folder, it name is NotTutucu.apk
 
 
 ## Getting Started
